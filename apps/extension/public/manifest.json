@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Veni",
+  "version": "0.1.0",
+  "description": "Understand your consumption. Control your attention.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Veni"
+  }
+}
